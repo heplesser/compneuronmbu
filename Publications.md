@@ -2,7 +2,7 @@
 layout: index
 ---
 
-# Publications from the [Computational Neuroscience Group @ NMBU](http://heplesser.github.io/heplesser/compneuronmbu)
+# Publications from the [Computational Neuroscience Group @ NMBU](http://heplesser.github.io/compneuronmbu)
 
 ## 2015 
 * T.V. Ness, C. Chintaluri, J. Potworowski, S. Leski, H. Glabska, D.K. Wojcik, G.T. Einevoll: Modelling and analysis of neural electrical potentials recorded in multielectrode arrays (MEAs), Neuroinformatics (2015) ([www](http://link.springer.com/article/10.1007/s12021-015-9265-6))  
@@ -46,7 +46,7 @@ layout: index
 * G.T. Einevoll, F. Franke, E. Hagen, C. Pouzat, and K.D. Harris: : _Towards reliable spike-train recordings from thousands of neurons with multielectrodes_, Current Opinion in Neurobiology 22:11-17 (2012). ([www](http://www.sciencedirect.com/science/article/pii/S0959438811001565)) 
 * L. Øyehaug, I. Østby, C. M. Lloyd, S.W. Omholt, and G.T. Einevoll: _Dependence of spontaneous neuronal firing and depolarisation block on astroglica membrane transport mechanisms_, Journal of Computational Neuroscience 32:147-165 (2012). [www](http://www.springerlink.com/content/f172556202k61333/) 
 * S. Coombes, H. Schmidt, C. Laing, N. Svanstedt, and J. Wyller: _Waves in random neural media_, Discrete and Continuous Dynamical Systems - Series A 32:2951-2970 (2012). [www](http://www.aimsciences.org/journals/displayArticlesnew.jsp?paperID=7266))
-* K.H. Pettersen, H. Linden, A.M. Dale and G.T. Einevoll: _Extracellular spikes and current-source density'', in ''Handbook of Neural Activity Measurement_, edited by R. Brette and A. Destexhe, pp. 92-135, Cambridge University Press (2012). [http://arken.umb.no/~gautei/forskning/PettersenLindenDaleEinevoll-BookChapter-revised.pdf [preprint, PDF, 5604kB]]
+* K.H. Pettersen, H. Linden, A.M. Dale and G.T. Einevoll: _Extracellular spikes and current-source density'', in ''Handbook of Neural Activity Measurement_, edited by R. Brette and A. Destexhe, pp. 92-135, Cambridge University Press (2012). 
 * A. Devor, D.A. Boas, G.T. Einevoll, R.B. Buxton, and A.M. Dale: _Neuronal basis of non-invasive functional imaging: from BOLD fMRI to microscopic neurovascular dynamics'' in ''Neural Metabolism In Vivo_, edited by I.-Y. Choi and R. Gruetter, pp. 433-500, Springer (2012).
 
 
@@ -57,18 +57,18 @@ layout: index
 * G. Halnes, S. Augustinaite, P. Heggelund, G.T. Einevoll, and M. Migliore: _A multi-compartment model for interneurons in the dorsal lateral geniculate nucleus_, PLoS Computational Biology 7:e10002160 (2011) ([www](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002160))
 * G.T. Einevoll, P. Jurkus, P. Heggelund: _Coarse-to-fine changes of receptive fields in lateral geniculate nucleus have a transient and a   sustained component that depend on distinct mechanisms_, PLoS ONE 6:e24523 (2011). doi:10.1371/journal.pone.0024523 ([www](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0024523)) 
 * A. Oleynik, J. Wyller, T. Tetzlaff, and G.T. Einevoll: _Stability of bumps in a two-population neural-field model with quasi-power temporal kernels_, Nonlinear Analysis: Real World Applications 12:3073-3094 (2011) ([www](http://www.sciencedirect.com/science/article/pii/S1468121811001039)) 
-* S. Leski, K.H. Pettersen, B. Tunstall, G.T. Einevoll, J. Gigg, and D.K. Wojcik: _Inverse Current Source Density method in two dimensions: Inferring neural activation from multielectrode recordings_, Neuroinformatics 9:401-425 (2011) ([www](http://www.sciencedirect.com/science/article/pii/S1468121811001039))  [http://www.youtube.com/watch?v=kGA9T6wtXBQ  [supplementary video on YouTube]]
+* S. Leski, K.H. Pettersen, B. Tunstall, G.T. Einevoll, J. Gigg, and D.K. Wojcik: _Inverse Current Source Density method in two dimensions: Inferring neural activation from multielectrode recordings_, Neuroinformatics 9:401-425 (2011) ([www](http://www.sciencedirect.com/science/article/pii/S1468121811001039))  [supplementary video on YouTube](http://www.youtube.com/watch?v=kGA9T6wtXBQ)
 * F. van Bussel, B. Kriener, M. Timme: _Inferring synaptic connectivity from spatio-temporal spike patterns_, Frontiers in Computational Neuroscience 5:3 (2011)([www](http://www.frontiersin.org/Computational_Neuroscience/10.3389/fncom.2011.00003/abstract))
 * M. Denker, S. Roux, H. Linden, M. Diesmann, A. Riehle, S. Grun: _The local field potential reflects surplus spike synchrony_, Cerebral Cortex 21:2681-2695 (2011). ([www](http://cercor.oxfordjournals.org/content/21/12/2681.long))
 * L. Etholm, H. Linden, T. Eken, P. Heggelund: _Electroencephalographic characterization of seizure activity in the synapsin I/II double knockout mouse_, Brain Research 1383:270-288 (2011) ([www)](http://www.sciencedirect.com/science/article/pii/S0006899311001545)
 
 ## 2010
 * E. Nordlie, T. Tetzlaff, G.T. Einevoll: _Rate dynamics of leaky integrate-and-fire neurons with strong synapses_, Front. Comput. Neurosci. 4:149 (2010). doi:10.3389/fncom.2010.00149 ([www](http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2010.00149/abstract))
-* G.T. Einevoll, D.K. Wojcik, A. Destexhe: Modeling extracellular potentials, Journal of Computational Neuroscience 29, 367-369 (2010) [http://www.springerlink.com/content/gh40081608167487/ [full-text link]]
-* H. Linden, K.H. Pettersen, and G.T. Einevoll: _Intrinsic dendritic filtering gives low-pass power spectra of local field potentials_, Journal of Computational Neuroscience 29, 423-444 (2010) [http://www.springerlink.com/content/w0255067152570h0/ [full-text link]]
-* F. Franke, M. Natora, P. Meier, E. Hagen, K.H. Pettersen, H.Linden, G.T. Einevoll, and K.Obermayer: _An automated online positioning system and simulation environment for multi-electrodes in extracellular recordings_, in Proceedings of the 32nd Annual International IEEE EMBC Conference, Buenos Aires, Argentina, 2010 [http://arken.umb.no/~gautei/forskning/PosiEMBC-reprint.pdf [reprint, PDF, 494kB]]
-* A. Oleynik, J. Wyller, and I. Wertgeim: _The weakly nonlocal limit of a one-population Wilson–Cowan model_, Physica D: Nonlinear Phenomena 239, 1766-1778 (2010) [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TVK-5086074-1&_user=597823&_coverDate=09%2F15%2F2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_acct=C000030758&_version=1&_urlVersion=0&_userid=597823&md5=944acf2b10b9d8c0419ee2c5431f29fd&searchtype=a [full-text link]]
-* G.T. Einevoll: _Modeling of extracellular potentials recorded with multicontact microelectrodes_, in Proceedings of 7th Int. Meeting on Substrate-Integrated Microelectrodes, Reutlingen, Germany, 2010 [http://arken.umb.no/~gautei/forskning/Einevoll_MEA2010.pdf [preprint, PDF, 522kB]]
+* G.T. Einevoll, D.K. Wojcik, A. Destexhe: Modeling extracellular potentials, Journal of Computational Neuroscience 29, 367-369 (2010) [(www)](http://www.springerlink.com/content/gh40081608167487)
+* H. Linden, K.H. Pettersen, and G.T. Einevoll: _Intrinsic dendritic filtering gives low-pass power spectra of local field potentials_, Journal of Computational Neuroscience 29, 423-444 (2010) [(www)](http://www.springerlink.com/content/w0255067152570h0)
+* F. Franke, M. Natora, P. Meier, E. Hagen, K.H. Pettersen, H.Linden, G.T. Einevoll, and K.Obermayer: _An automated online positioning system and simulation environment for multi-electrodes in extracellular recordings_, in Proceedings of the 32nd Annual International IEEE EMBC Conference, Buenos Aires, Argentina, 2010 
+* A. Oleynik, J. Wyller, and I. Wertgeim: _The weakly nonlocal limit of a one-population Wilson–Cowan model_, Physica D: Nonlinear Phenomena 239, 1766-1778 (2010) [(www)](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TVK-5086074-1&_user=597823&_coverDate=09%2F15%2F2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_acct=C000030758&_version=1&_urlVersion=0&_userid=597823&md5=944acf2b10b9d8c0419ee2c5431f29fd&searchtype=a)
+* G.T. Einevoll: _Modeling of extracellular potentials recorded with multicontact microelectrodes_, in Proceedings of 7th Int. Meeting on Substrate-Integrated Microelectrodes, Reutlingen, Germany, 2010 
 * H.E. Plesser (2010), _Generating Random Numbers_, in Grün S. and Rotter S. (ed.), Analysis of parallel spike trains, Springer, Berlin, ISBN: 9781441956743 ([www](http://www.springerlink.com/content/r8681840mq3m7024))
 * T. Tetzlaff, M. Diesmann (2010), _Dependence of spike-count correlations on spike-train statistics and observation time-scale_, in Grün S. and Rotter S. (ed.), Analysis of parallel spike trains, Springer, Berlin, ISBN: 9781441956743 ([www](http://www.springerlink.com/content/w3442874030162w2))
 * E. Nordlie and H.E. Plesser: _Visualizing neuronal network connectivity with connectivity pattern tables_, Front. Neuroinform. 3:39. doi:10.3389/neuro.11.039.2009 [raw-attachment:nordlie_plesser2010.pdf [PDF, 2.3MB]]
@@ -76,50 +76,49 @@ layout: index
 
 
 ## 2009
-* G.T. Einevoll: _Sharing with Python_, Frontiers in Neuroscience 3, 334-335 (2009) [http://www.frontiersin.org/neuroscience/10.3389/neuro.01.037.2009/full [full-text link]]
-* E. Nordlie, M.-O. Gewaltig, and H.E. Plesser: _Towards reproducible models of neuronal network models_, PLoS Computational Biology 5:e1000456 (2009) [http://dx.doi.org/10.1371/journal.pcbi.1000456 [full-text link]]
-* P. Blomquist, A. Devor, U.G. Indahl, I. Ulbert, G.T. Einevoll, and A.M. Dale: _Estimation of thalamocortical and intracortical network models from joint thalamic single-electrode and cortical laminar-electrode recordings in the rat barrel system_, PLoS Computational Biology 5, e1000328 (2009). [http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000328;jsessionid=A59F299D014DBA326D01BF3C256B9C6F [full-text link]]
-* K.H. Pettersen and G.T. Einevoll: _Neurophysics: what the telegraphers equation has taught us about the brain_, in "An anthology of developments in clinical engineering and bioimpedance: Festschrift for Sverre Grimnes", edited by Ø. Martinsen and Ø. Jensen (Unipub, Oslo, 2009). [http://arken.umb.no/~gautei/forskning/PettersenEinevoll-Grimnes70-February2009.pdf [preprint, PDF, 465kB]] 
-* H.E. Plesser and M. Diesmann, _Simplicity and Efficiency of Integrate-and-Fire Neuron Models_, Neural Computation 21, 353-359 (2009) [http://www.mitpressjournals.org/doi/abs/10.1162/neco.2008.03-08-731 [full-text link]]
-* C. Boucsein, T. Tetzlaff, R. Meier, A. Aertsen, B. Naundorf: _Dynamical response properties of neocortical neuron ensembles: Multiplicative versus additive noise_, Journal of Neuroscience 29, 1006-1010 (2009) [http://www.jneurosci.org/cgi/content/abstract/29/4/1006?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=1&author1=tetzlaff%2C+t&andorexacttitle=and&andorexacttitleabs=and&andorexactfulltext=and&searchid=1&FIRSTINDEX=0&sortspec=relevance&resourcetype=HWCIT [full-text link]]
-* I. Østby, L. Øyehaug, G.T. Einevoll, E. Nagelhus, E. Plahte, T. Zeuthen, C. Lloyd, O.P. Ottersen, and S.W. Omholt: _Astrocytic mechanisms explaining neural-activity-induced shrinkage of extraneuronal space_, PLoS Computational Biology 5, e1000272 (2009) [http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000272 [full-text link]]
+* G.T. Einevoll: _Sharing with Python_, Frontiers in Neuroscience 3, 334-335 (2009) [(www)](http://www.frontiersin.org/neuroscience/10.3389/neuro.01.037.2009/full)
+* E. Nordlie, M.-O. Gewaltig, and H.E. Plesser: _Towards reproducible models of neuronal network models_, PLoS Computational Biology 5:e1000456 (2009) [(www)](http://dx.doi.org/10.1371/journal.pcbi.1000456)
+* P. Blomquist, A. Devor, U.G. Indahl, I. Ulbert, G.T. Einevoll, and A.M. Dale: _Estimation of thalamocortical and intracortical network models from joint thalamic single-electrode and cortical laminar-electrode recordings in the rat barrel system_, PLoS Computational Biology 5, e1000328 (2009). [(www)](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000328;jsessionid=A59F299D014DBA326D01BF3C256B9C6F)
+* K.H. Pettersen and G.T. Einevoll: _Neurophysics: what the telegraphers equation has taught us about the brain_, in "An anthology of developments in clinical engineering and bioimpedance: Festschrift for Sverre Grimnes", edited by Ø. Martinsen and Ø. Jensen (Unipub, Oslo, 2009).
+* H.E. Plesser and M. Diesmann, _Simplicity and Efficiency of Integrate-and-Fire Neuron Models_, Neural Computation 21, 353-359 (2009) [(www)]([http://www.mitpressjournals.org/doi/abs/10.1162/neco.2008.03-08-731)
+* C. Boucsein, T. Tetzlaff, R. Meier, A. Aertsen, B. Naundorf: _Dynamical response properties of neocortical neuron ensembles: Multiplicative versus additive noise_, Journal of Neuroscience 29, 1006-1010 (2009) [(www)](http://www.jneurosci.org/cgi/content/abstract/29/4/1006?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=1&author1=tetzlaff%2C+t&andorexacttitle=and&andorexacttitleabs=and&andorexactfulltext=and&searchid=1&FIRSTINDEX=0&sortspec=relevance&resourcetype=HWCIT)
+* I. Østby, L. Øyehaug, G.T. Einevoll, E. Nagelhus, E. Plahte, T. Zeuthen, C. Lloyd, O.P. Ottersen, and S.W. Omholt: _Astrocytic mechanisms explaining neural-activity-induced shrinkage of extraneuronal space_, PLoS Computational Biology 5, e1000272 (2009) [(www)](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000272)
 
 
 ## 2008
 
-* T. Tetzlaff, S. Rotter, E. Stark, M. Abeles,  A. Aertsen, and M. Diesmann, _Dependence of Neuronal Correlations on Filter Characteristics and Marginal Spike Train Statistics_, Neural Computation 20, 2133-2184 (2008) [http://www.mitpressjournals.org/doi/abs/10.1162/neco.2008.05-07-525 [full-text link]]
-* B. Kriener, T. Tetzlaff, A. Aertsen, M. Diesmann, and S. Rotter, _Correlations and population dynamics in cortical networks_, Neural Computation 20, 2185-2226 (2008) [http://www.mitpressjournals.org/doi/abs/10.1162/neco.2008.02-07-474 [full-text link]]
-* K.H. Pettersen, E. Hagen and G.T. Einevoll: _Estimation of population firing rates and current source densities from laminar electrode recordings_, Journal of Computational Neuroscience 24, 291-313 (2008). [http://www.springerlink.com/content/513k30u3q623l19w/?p=d55f4b42566e41b3b50712616e36cdfc&pi=24 [full-text link]]
-* K.H. Pettersen and G.T. Einevoll: _Amplitude variability and extracellular low-pass filtering of neuronal spikes_, Biophysical Journal 94, 784-802 (2008). [http://www.biophysj.org/cgi/content/full/94/3/784 [full-text link]]
+* T. Tetzlaff, S. Rotter, E. Stark, M. Abeles,  A. Aertsen, and M. Diesmann, _Dependence of Neuronal Correlations on Filter Characteristics and Marginal Spike Train Statistics_, Neural Computation 20, 2133-2184 (2008) [(www)](http://www.mitpressjournals.org/doi/abs/10.1162/neco.2008.05-07-525)
+* B. Kriener, T. Tetzlaff, A. Aertsen, M. Diesmann, and S. Rotter, _Correlations and population dynamics in cortical networks_, Neural Computation 20, 2185-2226 (2008) [(www)](http://www.mitpressjournals.org/doi/abs/10.1162/neco.2008.02-07-474)
+* K.H. Pettersen, E. Hagen and G.T. Einevoll: _Estimation of population firing rates and current source densities from laminar electrode recordings_, Journal of Computational Neuroscience 24, 291-313 (2008). [(www)](http://www.springerlink.com/content/513k30u3q623l19w/?p=d55f4b42566e41b3b50712616e36cdfc&pi=24)
+* K.H. Pettersen and G.T. Einevoll: _Amplitude variability and extracellular low-pass filtering of neuronal spikes_, Biophysical Journal 94, 784-802 (2008). [(www)](http://www.biophysj.org/cgi/content/full/94/3/784)
 
 ## 2007
 
-* Ø. Nordbø, J. Wyller and G.T. Einevoll: _Neural network firing-rate models on integral form - Effects of temporal coupling kernels on equilibrium-state stability_, Biological Cybernetics, No.3, pp. 195-209 (2007) [http://www.springerlink.com/content/q5285lrx71601827/fulltext.pdf [full-text link]]
-* J. Wyller, W. Z. Krolikowski, O. Bang, D. E: Petersen and J. J. Rasmussen: _Modulational instability in the nonlocal X!^2 - model_ Physica D 227, 8 - 25 (2007) [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TVK-4MVVSKB-1&_user=597823&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000030758&_version=1&_urlVersion=0&_userid=597823&md5=ad309f877621794ebf6147bff07a76cc [full-text link]]
-* J. Wyller, P. Blomquist, and G.T. Einevoll: _On the origin and properties of two-population neural field models - a tutorial introduction_, Biophysical Reviews & Letters 2, 79-98 (2007). [raw-attachment:wyller-2007-BiophysRevLetters.pdf [pdf, 618KB]]
-* G.T. Einevoll, K.H. Pettersen, A. Devor, I. Ulbert, E. Halgren, A.M. Dale: _Laminar Population Analysis: Estimating firing rates and evoked synaptic activity from multielectrode recordings in rat barrel cortex_, Journal of Neurophysiology 97, 2174-2190 (2007). [http://jn.physiology.org/cgi/content/full/97/3/2174 [full-text link]]
-* J. Wyller, P. Blomquist, and G.T. Einevoll: _Turing instability and pattern formation in a two-population neuronal network model_, Physica D 225, 75-93(2007) [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TVK-4MFKCYR-1&_user=597823&_coverDate=01%2F01%2F2007&_rdoc=8&_fmt=full&_orig=browse&_srch=doc-info(%23toc%235537%232007%23997749998%23638864%23FLA%23display%23Volume)&_cdi=5537&_sort=d&_docanchor=&view=c&_ct=10&_acct=C000030758&_version=1&_urlVersion=0&_userid=597823&md5=688ccfde2724b729464bb192c4742fa5 [full-text link]]
-* A. Morrison, S. Straube, H.E. Plesser, and M. Diesmann, _Exact subthreshold integration with continuous spike times in discrete-time neural network simulations_, Neural Computation 19, 47-79 (2007) [http://www.mitpressjournals.org/doi/abs/10.1162/neco.2007.19.1.47 [full-text link]]
+* Ø. Nordbø, J. Wyller and G.T. Einevoll: _Neural network firing-rate models on integral form - Effects of temporal coupling kernels on equilibrium-state stability_, Biological Cybernetics, No.3, pp. 195-209 (2007) [(www)](http://www.springerlink.com/content/q5285lrx71601827/fulltext.pdf)
+* J. Wyller, W. Z. Krolikowski, O. Bang, D. E: Petersen and J. J. Rasmussen: _Modulational instability in the nonlocal X!^2 - model_ Physica D 227, 8 - 25 (2007) [(www)](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TVK-4MVVSKB-1&_user=597823&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000030758&_version=1&_urlVersion=0&_userid=597823&md5=ad309f877621794ebf6147bff07a76cc)
+* J. Wyller, P. Blomquist, and G.T. Einevoll: _On the origin and properties of two-population neural field models - a tutorial introduction_, Biophysical Reviews & Letters 2, 79-98 (2007). 
+* G.T. Einevoll, K.H. Pettersen, A. Devor, I. Ulbert, E. Halgren, A.M. Dale: _Laminar Population Analysis: Estimating firing rates and evoked synaptic activity from multielectrode recordings in rat barrel cortex_, Journal of Neurophysiology 97, 2174-2190 (2007). [(www)](http://jn.physiology.org/cgi/content/full/97/3/2174)
+* J. Wyller, P. Blomquist, and G.T. Einevoll: _Turing instability and pattern formation in a two-population neuronal network model_, Physica D 225, 75-93(2007) [(www)](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TVK-4MFKCYR-1&_user=597823&_coverDate=01%2F01%2F2007&_rdoc=8&_fmt=full&_orig=browse&_srch=doc-info(%23toc%235537%232007%23997749998%23638864%23FLA%23display%23Volume)&_cdi=5537&_sort=d&_docanchor=&view=c&_ct=10&_acct=C000030758&_version=1&_urlVersion=0&_userid=597823&md5=688ccfde2724b729464bb192c4742fa5)
+* A. Morrison, S. Straube, H.E. Plesser, and M. Diesmann, _Exact subthreshold integration with continuous spike times in discrete-time neural network simulations_, Neural Computation 19, 47-79 (2007) [(www)](http://www.mitpressjournals.org/doi/abs/10.1162/neco.2007.19.1.47)
 
 ## 2006
 
-* T. Solstad, E.I. Moser, and G.T. Einevoll: _From grid cells to place cells: a mathematical model_, Hippocampus 154, 1026-1031 (2006). [http://www3.interscience.wiley.com/cgi-bin/abstract/113455567/ABSTRACT [full-text link]]
+* T. Solstad, E.I. Moser, and G.T. Einevoll: _From grid cells to place cells: a mathematical model_, Hippocampus 154, 1026-1031 (2006). [(www)](http://www3.interscience.wiley.com/cgi-bin/abstract/113455567/ABSTRACT)
 * G.T. Einevoll:
       _Mathematical modeling of neural activity_.
-      Dynamics of Complex Interconnected Systems: Networks and Bioprocesses NATO Science Series II: Mathematics, Physics and Chemistry, edited by A. Skjeltorp (Kluwer Academic, 2006). [http://arken.umb.no/~gautei/forskning/einevoll_NATO_2006.pdf [preprint, PDF, 658kB]]
-* K. Pettersen, A. Devor, I. Ulbert, A.M. Dale and G.T. Einevoll:
+      Dynamics of Complex Interconnected Systems: Networks and Bioprocesses NATO Science Series II: Mathematics, Physics and Chemistry, edited by A. Skjeltorp (Kluwer Academic, 2006). * K. Pettersen, A. Devor, I. Ulbert, A.M. Dale and G.T. Einevoll:
       _Current-source density estimation based on inversion of electrostatic forward solution: Effects of finite extent of neuronal activity and conductivity discontinuities_,
-      Journal of Neuroscience Methods 154, 116-133 (2006) [http://arken.umb.no/~gautei/forskning/pettersen-2006JNSM-iCSD.pdf [reprint, PDF, 1027kB]]
+      Journal of Neuroscience Methods 154, 116-133 (2006) 
 
 ## 2005
 
 * P. Blomquist, J. Wyller and G.T. Einevoll:
       _Localized activity patterns in two-population neuronal networks_,
-      Physica D 206, 180-212 (2005) [http://arken.umb.no/~gautei/forskning/blomquist-2005.pdf [reprint, PDF, 576kB]].
+      Physica D 206, 180-212 (2005)
 * G.T. Einevoll and H. E. Plesser:
       _Response of the difference-of-Gaussians model to circular drifting-grating patches_,
-      Visual Neuroscience 22, 437-446 (2005) [http://arken.umb.no/~gautei/forskning/einevoll-2005.pdf [reprint, PDF, 232kB]].
+      Visual Neuroscience 22, 437-446 (2005)
 * W. Krolikowski, G. McCarthy, M. Saffman, O. Bang, J. Wyller and J. J. Rasmussen:
       _Modulational instability in generalized nonlinear optical media_,
       Bookchapter in "Focus on Lasers and Electro-Optics Research"
-      F: Columbus, Ed., Nova Science, (2005) [raw-attachment:09-Krolikowski-novachapter_submit-P.pdf [PDF, 935kB]].
+      F: Columbus, Ed., Nova Science, (2005) 
