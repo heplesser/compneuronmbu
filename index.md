@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 ---
 
 Welcome to the Computational Neuroscience Group at the [Norwegian University of Life Sciences](http://www.nmbu.no/en) at Ås, close to the Norwegian capital Oslo!

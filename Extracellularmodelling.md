@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 # Inferring neural activity from extracellular potentials
 
 
