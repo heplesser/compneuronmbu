@@ -71,7 +71,7 @@ layout: index
 * G.T. Einevoll: _Modeling of extracellular potentials recorded with multicontact microelectrodes_, in Proceedings of 7th Int. Meeting on Substrate-Integrated Microelectrodes, Reutlingen, Germany, 2010 
 * H.E. Plesser (2010), _Generating Random Numbers_, in Grün S. and Rotter S. (ed.), Analysis of parallel spike trains, Springer, Berlin, ISBN: 9781441956743 ([www](http://www.springerlink.com/content/r8681840mq3m7024))
 * T. Tetzlaff, M. Diesmann (2010), _Dependence of spike-count correlations on spike-train statistics and observation time-scale_, in Grün S. and Rotter S. (ed.), Analysis of parallel spike trains, Springer, Berlin, ISBN: 9781441956743 ([www](http://www.springerlink.com/content/w3442874030162w2))
-* E. Nordlie and H.E. Plesser: _Visualizing neuronal network connectivity with connectivity pattern tables_, Front. Neuroinform. 3:39. doi:10.3389/neuro.11.039.2009 [raw-attachment:nordlie_plesser2010.pdf [PDF, 2.3MB]]
+* E. Nordlie and H.E. Plesser: _Visualizing neuronal network connectivity with connectivity pattern tables_, Front. Neuroinform. 3:39. doi:10.3389/neuro.11.039.2009 
 * H. E. Plesser and A. G. Jahnsen, _Re-seeding invalidates tests of random number generators_, Appl Math and Comput, 217:339-346. doi: 10.1016/j.amc.2010.05.066 ([www](http://www.sciencedirect.com/science/article/pii/S0096300310006259), [Preprint](http://arken.umb.no/~plesser/publications/Ples_2010_GR_Preprint.pdf))
 
 
