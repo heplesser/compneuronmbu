@@ -2,13 +2,17 @@
 layout: index
 ---
 
+# Computational Neuroscience @ NMBU
+
 Welcome to the Computational Neuroscience Group at the [Norwegian University of Life Sciences](http://www.nmbu.no/en) at Ås, close to the Norwegian capital Oslo!
 
 ## Research
 
-- Modelling of [extracellular signatures of neural activity](Extracellularmodelling), and the development of mathematical methods for analysis of data from cortical recordings with laminar electrodes
-
 ### Key topics
+
+- Modelling of extracellular signatures of neural activity, and the development of mathematical methods for analysis of data from cortical recordings with laminar electrodes
+- Studies of simplified models for dynamics of interconnected cortical neuron populations
+- Interaction between nerve cells and glia cells
 
 ### Software
 
