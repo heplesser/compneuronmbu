@@ -5,6 +5,7 @@ layout: index
 # Computational Neuroscience @ NMBU
 
 Welcome to the Computational Neuroscience Group at the [Norwegian University of Life Sciences](http://www.nmbu.no/en) at Ås, close to the Norwegian capital Oslo!
+We are migrating and revising our website, whence the limited amount of information available.
 
 ## Research
 
