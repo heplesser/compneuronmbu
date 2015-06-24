@@ -11,3 +11,4 @@ Are you looking for the LFPy Package? It has found a new home on GitHub at
 <br>
 
 [Computational Neuroscience Group @ NMBU](http://heplesser.github.io)
+
